@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/5fe0c20e-b2ad-45e7-a063-4e71c799a026" alt="BlueShadow" height="150" weight="150">
+  <img src="https://github.com/user-attachments/assets/fba6074b-b49a-482a-a688-adf74ca5538b" alt="BlueShadow" height="150" weight="150">
 </p>
 
 <h1 align="center">BlueShadow</h1>
