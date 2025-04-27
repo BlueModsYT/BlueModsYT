@@ -16,7 +16,7 @@
 
 
 <div align="center">
-  <img height="150" weight="150" src="https://github-readme-streak-stats.herokuapp.com/?user=BlueModsYT&layout=compact&theme=radical&hide_border=false" alt="GitHub Streak" />
+  <img height="150" weight="150" src="https://github-readme-streak-stats.herokuapp.com/?user=BlueModsYT&layout=compact&theme=radical&hide_border=false" alt="GitHub Streak" /><br>
   <img height="150" weight="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlueModsYT&layout=compact&langs_count=8&theme=radical&hide_border=false"/>
 </div>
 
