@@ -16,8 +16,8 @@
 
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BlueModsYT&layout=compact&theme=radical&hide_border=false" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlueModsYT&layout=compact&langs_count=8&theme=radical&hide_border=false"/>
+  <img weight="150" src="https://github-readme-streak-stats.herokuapp.com/?user=BlueModsYT&layout=compact&theme=radical&hide_border=false" alt="GitHub Streak" />
+  <img weight="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlueModsYT&layout=compact&langs_count=8&theme=radical&hide_border=false"/>
 </div>
 
 ---
