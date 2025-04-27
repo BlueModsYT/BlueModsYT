@@ -17,7 +17,7 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=BlueModsYT&layout=compact&theme=radical&hide_border=false" alt="GitHub Streak" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlueModsYT&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlueModsYT&layout=compact&langs_count=8&theme=radical&hide_border=false"/>
 </div>
 
 ---
@@ -36,4 +36,8 @@
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/BlueModsYT?color=ADD8E6&style=for-the-badge&labelColor=gray&logo=star"/></a>
   <a href="https://github.com/BlueModsYT?tab=followers">
     <img alt="followers" title="Followers" src="https://custom-icon-badges.demolab.com/github/followers/BlueModsYT?color=ADD8E6&labelColor=gray&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/></a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
