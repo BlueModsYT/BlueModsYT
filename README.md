@@ -31,6 +31,10 @@
 
 ---
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/749100843823005717)](https://discord.com/users/749100843823005717)
+
+---
+
 <p align="center">
   <a href="https://github.com/BlueModsYT?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/BlueModsYT?color=ADD8E6&style=for-the-badge&labelColor=gray&logo=star"/></a>
