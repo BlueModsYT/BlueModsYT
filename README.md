@@ -2,16 +2,10 @@
   <img src="https://github.com/user-attachments/assets/fba6074b-b49a-482a-a688-adf74ca5538b" alt="BlueShadow" height="150" weight="150">
 </p>
 
-<h1 align="center">BlueShadow</h1>
+<h1 align="center">BlueShadow (aka: BlueMods)</h1>
 
 <p align="center">
   <a href="https://bluemods.neocities.org">https://bluemods.neocities.org</a>
-</p>
-
-<p align="center">
-  <marquee behavior="alternate" direction="left" scrollamount="5">
-    BlueMods AntiCheat for Minecraft Bedrock is a powerful tool designed to protect your server from hackers & cheaters.
-  </marquee>
 </p>
 
 
