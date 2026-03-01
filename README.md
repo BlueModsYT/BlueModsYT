@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/fba6074b-b49a-482a-a688-adf74ca5538b" alt="BlueShadow" height="150" weight="150">
+  <img src="https://bluemods.neocities.org/p/d/ic_blueshadow.png" alt="BlueShadow" height="150" weight="150">
 </p>
 
 <h1 align="center">BlueShadow (aka: BlueMods)</h1>
